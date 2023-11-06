@@ -9,7 +9,7 @@ Using the [XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.x
 
 ## Features
 
-- Interactions with objects, Ray and Direct.
+- Interactions with objects, Poke, Ray and Direct.
 - Movement: Smooth.
 - Movement: Teleportation.
 - Turn: Snap.
