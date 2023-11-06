@@ -7,7 +7,7 @@ XR Interaction VR Test is a Unity project that was created in order to experimen
 Using [Unity](https://unity.com/fr).
 Using the [XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.5/manual/index.html).
 
-##Features
+## Features
 
 - Interactions with objects, Ray and Direct.
 - Movement: Smooth.
